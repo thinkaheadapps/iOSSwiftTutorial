@@ -5,5 +5,7 @@
         <page name='ReturnValue'/>
         <page name='FunctionCallingOtherFunction'/>
         <page name='Arrays'/>
+        <page name='SetExample'/>
+        <page name='DictionaryExample'/>
     </pages>
 </playground>
